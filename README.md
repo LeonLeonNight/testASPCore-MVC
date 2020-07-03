@@ -1,3 +1,3 @@
-# testProjectCore
-В проекте реализовано:
-- создана авторизация и идентификация пользователя;
+# testASPCore
+ASP.Net Core MVC + Identity
+ORM - EntityFrameworkCore
